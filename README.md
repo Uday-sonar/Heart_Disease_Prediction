@@ -2,10 +2,10 @@
 
 This project is a solution for a **Kaggle Machine Learning Competition** focused on predicting heart disease using patient health data.
 
-*📌 Competition: Playground Series S6E2
-*📌 Platform: Kaggle
-*📌 Problem Type: Binary Classification
-*📌 Evaluation Metric: ROC-AUC Score
+📌 Competition: Playground Series S6E2
+📌 Platform: Kaggle
+📌 Problem Type: Binary Classification
+📌 Evaluation Metric: ROC-AUC Score
 
 The objective is to build machine learning models that predict whether a patient has heart disease based on medical and demographic features.
 
