@@ -1,6 +1,6 @@
 # 🫀 Heart Disease Prediction using Machine Learning
 
-This project is a solution for a **Kaggle Machine Learning Competition** focused on predicting heart disease using patient health data.
+This project predicts the presence of heart disease using machine learning models. It compares LightGBM and Random Forest classifiers and automatically selects the best-performing model based on ROC-AUC score.
 
 📌 Competition: Playground Series S6E2
 📌 Platform: Kaggle
